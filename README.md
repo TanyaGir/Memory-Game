@@ -1,5 +1,5 @@
 # Memory-Game
-This is a game to test a user's memory. There is a deck of cards with differnt icons. 
+This is a game to test a user's memory. There is a deck of cards with different icons. 
 # Challenge
 To match the least in time possible.
 # How to play
@@ -7,7 +7,7 @@ To match the least in time possible.
 - Keep revealing cards in order to make a match.
 - Match the cards as fast as possible
 # Getting started
-Click here to play
+Click here to play https://tanyagir.github.io/Memory-Game/
 # Built With
 -HTML5
 
