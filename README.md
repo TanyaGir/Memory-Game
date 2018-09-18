@@ -7,9 +7,12 @@ To match the least in time possible.
 - Keep revealing cards in order to make a match.
 - Match the cards as fast as possible
 # Getting started
+Click here to play
 # Built With
 -HTML5
+
 -CSS
+
 -Javascript
 # Author
 Tanya
